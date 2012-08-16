@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012, CyanogenMod, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <item name="drawable/background_compass">@drawable/com_cyanogenmod_cmcompass_background_compass</item>
+    <item name="drawable/cm_cover">@drawable/com_cyanogenmod_cmcompass_cm_cover</item>
+    <item name="drawable/compass">@drawable/com_cyanogenmod_cmcompass_compass</item>
+    <item name="drawable/w">@drawable/com_cyanogenmod_cmcompass_w</item>
+    <item name="drawable/s">@drawable/com_cyanogenmod_cmcompass_s</item>
+    <item name="drawable/n">@drawable/com_cyanogenmod_cmcompass_n</item>
+    <item name="drawable/e">@drawable/com_cyanogenmod_cmcompass_e</item>
+    <item name="drawable/degree">@drawable/com_cyanogenmod_cmcompass_degree</item>
+    <item name="drawable/number_9">@drawable/com_cyanogenmod_cmcompass_number_9</item>
+    <item name="drawable/number_8">@drawable/com_cyanogenmod_cmcompass_number_8</item>
+    <item name="drawable/number_7">@drawable/com_cyanogenmod_cmcompass_number_7</item>
+    <item name="drawable/number_6">@drawable/com_cyanogenmod_cmcompass_number_6</item>
+    <item name="drawable/number_5">@drawable/com_cyanogenmod_cmcompass_number_5</item>
+    <item name="drawable/number_4">@drawable/com_cyanogenmod_cmcompass_number_4</item>
+    <item name="drawable/number_3">@drawable/com_cyanogenmod_cmcompass_number_3</item>
+    <item name="drawable/number_2">@drawable/com_cyanogenmod_cmcompass_number_2</item>
+    <item name="drawable/number_1">@drawable/com_cyanogenmod_cmcompass_number_1</item>
+    <item name="drawable/number_0">@drawable/com_cyanogenmod_cmcompass_number_0</item>
+</resource-redirections>
